@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+model_type: PINHOLE
+camera_name: esp32cam
+image_width: 640
+image_height: 480
+distortion_parameters:
+   k1: 3.1526e-02
+   k2: -1.19231e-01
+   p1: -1.188e-03
+   p2: -2.479e-03
+projection_parameters:
+   fx: 5.91984009e+02
+   fy: 5.96254089e+02
+   cx: 3.28784045e+02
+   cy: 2.60380457e+02
